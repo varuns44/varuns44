@@ -1,7 +1,7 @@
 ## Hello, this is Varun Suresh👋
 
 # Projects that im working on
-- Python File Automation
+- Basic Pomodoro TODO Interaction
 
 
 <!--
